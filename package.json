@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SamueleTrainotti/lezione03ottobre/issues"
   },
-  "homepage": "https://github.com/SamueleTrainotti/lezione03ottobre#readme"
+  "homepage": "https://github.com/SamueleTrainotti/lezione03ottobre#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
